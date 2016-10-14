@@ -26,6 +26,9 @@ a{
 
 .jumbotron {
   background-color: #f2f2f2;
+  text-align: center;
+  color: #4d4d4d;
+
 }
 
 .dots {
@@ -68,12 +71,8 @@ a{
   text-align: center;
   background-color: #f2f2f2;
   color: #4d4d4d;
-  margin-top: 100px;
-}
-
-#jumbo {
-  text-align: center;
-  color: #4d4d4d;
+  margin-top: 150px;
+  padding: 55px 0 65px 0;
 }
 
 #jumbo img{
@@ -82,13 +81,26 @@ a{
 }
 
 #css_column{
-  border-left: 1px solid black;
-  border-right: 1px solid black;
+  border-left: 1px solid #FC4A1A;
+  border-right: 1px solid #FC4A1A;
 }
 
 #see_more{
-  border-top: 1px solid black;
+  border-top: 1px solid #FC4A1A;
   padding-top: 50px;
+}
+
+#about h1{
+  padding-bottom: 10px;
+  border-bottom: 1px solid #FC4A1A;
+}
+
+#me-pic{
+  float: left;
+  height: 200px;
+  width: 215px;
+  border-right: 1px solid #FC4A1A;
+  padding-right: 15px;
 }
 
 @media all and (max-width: 768px){
