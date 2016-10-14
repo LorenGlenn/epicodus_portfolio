@@ -43,7 +43,7 @@ a{
   padding: 6px 0 0 5px;
   font-size: 1.2em;
   font-weight: bolder;
-  color: #4d4d4d;
+  color: #FC4A1A;
 }
 
 .solo_dot {
@@ -61,7 +61,7 @@ a{
   padding: 12px 0 0 12px;
   font-size: 1.5em;
   font-weight: bolder;
-  color: #4d4d4d;
+  color: #FC4A1A;
 }
 
 #home_header {
@@ -89,4 +89,14 @@ a{
 #see_more{
   border-top: 1px solid black;
   padding-top: 50px;
+}
+
+@media all and (max-width: 768px){
+  #left-dot, #right-dot {
+    visibility: hidden;
+  }
+
+  .dots {
+    margin-left: 20%;
+  }
 }
