@@ -75,6 +75,17 @@ a{
   font-size: 14pt;
 }
 
+.contact-item {
+  margin-left:15%;
+  max-width: 350px;
+  min-width: 350px;
+}
+
+.contact-item span{
+  font-size: 18pt;
+  color: #4d4d4d;
+}
+
 #home_header {
   text-align: center;
   background-color: #f2f2f2;
@@ -116,6 +127,20 @@ a{
   font-size: 24pt;
 }
 
+#chevron {
+  padding-top: 0px;
+  font-size: 1.7em;
+  margin-top: 0;
+  font-weight: lighter;
+}
+
+#option{
+  padding-left: 14px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  float: inherit;
+}
+
 @media all and (max-width: 768px){
   #left-dot, #right-dot {
     visibility: hidden;
@@ -124,4 +149,9 @@ a{
   .dots {
     margin-left: 20%;
   }
+
+  #see_more, #css_column {
+    border: none;
+  }
+
 }
