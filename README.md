@@ -11,7 +11,7 @@ _This is a site that I created to display my current projects from epicodus as w
 ##_Setup/Installation Requirements_
 
 * _Open the index.html file in any browser_
-* _Enjoy!_
+* _Or go to http://lorenglenn.github.io/epicodus_portfolio _
 
 ##_Known Bugs_
 
