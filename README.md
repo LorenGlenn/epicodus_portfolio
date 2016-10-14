@@ -2,7 +2,7 @@
 
 ####_A site containing many of my Epicodus projects so far, 10/14/16_
 
-####_By _**Loren Glenn**_
+####_By **Loren Glenn**_
 
 ##_Description_
 
