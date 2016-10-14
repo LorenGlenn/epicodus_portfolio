@@ -1,0 +1,39 @@
+body{
+  background-color: #66ccb3;
+}
+
+.center-navs{
+  text-align: center;
+}
+
+.nav-pills {
+  display: inline-block;
+}
+
+a{
+    color: #FC4A1A;
+}
+
+.nav-pills li.active a,
+.nav-pills li.active a:hover{
+    background-color: #FC4A1A;
+}
+
+.nav-pills li a:hover{
+  background-color: #FC4A1A;
+  color: white;
+}
+
+#home_header {
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+#jumbo {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: #f2f2f2;
+}
