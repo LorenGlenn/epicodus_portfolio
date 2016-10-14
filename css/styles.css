@@ -1,5 +1,9 @@
 body{
-  background-color: #66ccb3;
+  background-color: #002e4d;
+}
+
+a{
+    color: #FC4A1A;
 }
 
 .center-navs{
@@ -8,10 +12,6 @@ body{
 
 .nav-pills {
   display: inline-block;
-}
-
-a{
-    color: #FC4A1A;
 }
 
 .nav-pills li.active a,
@@ -24,16 +24,28 @@ a{
   color: white;
 }
 
+.jumbotron {
+  background-color: #f2f2f2;
+}
+
 #home_header {
   text-align: center;
   background-color: #f2f2f2;
+  color: #4d4d4d;
 }
 
 #jumbo {
   padding-top: 100px;
   text-align: center;
+  color: #4d4d4d;
 }
 
-.jumbotron {
-  background-color: #f2f2f2;
+#css_column{
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+#see_more{
+  border-top: 1px solid black;
+  padding-top: 50px;
 }
