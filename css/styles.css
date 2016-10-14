@@ -67,6 +67,14 @@ a{
   color: #FC4A1A;
 }
 
+.about-para {
+  text-align: left;
+}
+
+.about-para {
+  font-size: 14pt;
+}
+
 #home_header {
   text-align: center;
   background-color: #f2f2f2;
@@ -101,6 +109,11 @@ a{
   width: 215px;
   border-right: 1px solid #FC4A1A;
   padding-right: 15px;
+  margin-right: 10px;
+}
+
+#first-letter{
+  font-size: 24pt;
 }
 
 @media all and (max-width: 768px){
